@@ -13,6 +13,7 @@ This Java application allows users to create and manipulate graphs for Moore mac
 - **Graph Export:** Export the created graph as an image file for sharing or further use.
 - **Example Graph:** Load a pre-built example graph to get started quickly.
 - **Data Persistence:** Save and load graphs to and from binary files for later use.
+- **Keyboard Shortcuts:** Utilize keyboard shortcuts for common actions, such as moving nodes, deleting nodes or edges, and changing node properties.
 
 ## Usage
 - **Creating Nodes:** Right-click on an empty area of the canvas and select "Create new Node" from the context menu. Enter the index q and y for the new node.
